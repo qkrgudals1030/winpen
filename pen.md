@@ -9,16 +9,16 @@
 
 ### 코딩 과정
 
-#### 먼저 너겟패키지를 설치하여줍니다. 
+#### 1.먼저 너겟패키지를 설치하여줍니다. 
 ![image](https://github.com/qkrgudals1030/winpen/assets/50895124/f3436ca4-018d-4910-85cb-acf37c085abf)
 
-#### 3개의 헤더파일과 네임스페이스를 넣어줍니다. 
+#### 2.3개의 헤더파일과 네임스페이스를 넣어줍니다. 
 ![image](https://github.com/qkrgudals1030/winpen/assets/50895124/6232db35-7823-4437-b423-478a84fa9022)
 
-#### 필요한 변수를 초기화 시켜줍니다. 
+#### 3. 필요한 변수를 초기화 시켜줍니다. 
 ![image](https://github.com/qkrgudals1030/winpen/assets/50895124/346f3f4a-8b63-42aa-83bf-76739aeb5c06)
 
-#### 함수를 만들어줍니다. 
+#### 4. 함수를 만들어줍니다. 
 
 ![image](https://github.com/qkrgudals1030/winpen/assets/50895124/8374f999-ec60-4285-b223-c233cde6aca3)
 
